@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Minh Giang and I'm a Controls Engineering and Automation student specializing in AI/ML</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
